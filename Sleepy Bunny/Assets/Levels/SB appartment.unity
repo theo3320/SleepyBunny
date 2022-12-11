@@ -3313,6 +3313,63 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: _maxBending
+      value: 0.0455
+      objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: _tetherScale
+      value: 1.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: _plasticYield
+      value: 0.0673
+      objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: _bendCompliance
+      value: 0.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: _maxCompression
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: _stretchingScale
+      value: -0.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: m_ClothBlueprint
+      value: 
+      objectReference: {fileID: 11400000, guid: 38d048f1bc4104c76bacec0333738ecf,
+        type: 2}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: m_SelfCollisions
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: _stretchCompliance
+      value: -0.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: m_CollisionMaterial
+      value: 
+      objectReference: {fileID: 11400000, guid: 56297c6e785b44eb28e469b62cedc016,
+        type: 2}
+    - target: {fileID: 8220097443589322037, guid: 9e4796eb3a7359049a49ced1447c82f7,
+        type: 3}
+      propertyPath: m_SurfaceCollisions
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8324988658727561576, guid: 9e4796eb3a7359049a49ced1447c82f7,
         type: 3}
       propertyPath: m_RootOrder
@@ -7001,7 +7058,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 970995129}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0553, y: 0.02858972, z: 0.009119999}
+  m_LocalPosition: {x: -0.0553, y: 0.028589683, z: 0.009119999}
   m_LocalScale: {x: 1.3182, y: 1.3182, z: 1.3182}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13048,7 +13105,7 @@ PrefabInstance:
     - target: {fileID: 8916875052777114972, guid: 4e517476e42dc4c489ae6b7b5f89fdc4,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.04773054
+      value: 0.047730524
       objectReference: {fileID: 0}
     - target: {fileID: 8916875052777114972, guid: 4e517476e42dc4c489ae6b7b5f89fdc4,
         type: 3}
@@ -13058,7 +13115,7 @@ PrefabInstance:
     - target: {fileID: 8916875052777114972, guid: 4e517476e42dc4c489ae6b7b5f89fdc4,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.037796855
+      value: 0.037796844
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6347161096023236119, guid: 4e517476e42dc4c489ae6b7b5f89fdc4, type: 3}
